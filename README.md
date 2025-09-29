@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Passionate developer with a strong background in web development, security, and networking. 
+👨‍💻 A developer with a strong background in web development, security, and networking. 
 🌍 Always learning and exploring new technologies to enhance my skill set. 
 💡 Enjoys solving complex problems and building creative solutions. 
 🎯 Focused on efficiency, scalability, and clean code practices.
