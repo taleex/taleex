@@ -11,7 +11,9 @@
   <a href="https://x.com/Jafm_16"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" /></a>
 </div>
 
-[Portefolio]([https://github.com/taleex](https://taleex.netlify.app/))
+<div>
+  [Portefolio]((https://taleex.netlify.app/)) 
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Taleex&icon=0&color=0)](https://visitcount.itsvg.in)
