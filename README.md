@@ -12,7 +12,7 @@
 </div>
 
 <div>
-  [Portefolio]((https://taleex.netlify.app/)) 
+ [Portefolio](https://taleex.netlify.app/)
 </div>
 
 ---
