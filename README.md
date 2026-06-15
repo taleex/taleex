@@ -1,21 +1,15 @@
-# 💫 About Me:
-👨‍💻 A developer with a strong background in web development, security, and networking. 
-🌍 Always learning and exploring new technologies to enhance my skill set. 
-💡 Enjoys solving complex problems and building creative solutions. 
-🎯 Focused on efficiency, scalability, and clean code practices.
+# Hey, I'm Taleex 👋
 
+Frontend Developer working with **React, Next.js, and TypeScript**.
 
-## 🌐 Socials
+## 🛠 Tech Stack
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/-jorgematos/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="https://x.com/Jafm_16"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge" /></a>
-</div>
+React · Next.js · TypeScript · JavaScript
+Zustand · TanStack Query · Prisma · Supabase
+Tailwind CSS · Git · Figma
 
-## 
-<div align="left">
- Portefolio: https://taleex.netlify.app/
-</div>
+## 📫 Contact
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+🌐 **Portfolio** → https://taleex.netlify.app
+💼 **LinkedIn** → https://www.linkedin.com/in/-jorgematos/
+🐦 **X** → https://x.com/Jafm_16
